@@ -1,4 +1,5 @@
 Cython
+gunicorn
 certifi==2019.11.28
 chardet==3.0.4
 charset-normalizer==3.3.2
